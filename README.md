@@ -33,6 +33,3 @@ tools for queues, application security, and React development.
 - Typed APIs, background jobs, real-time systems, and event-sourced data models
 - Accessible React and Next.js interfaces with measurable performance budgets
 - Small packages with explicit security boundaries and zero-dependency options
-
-I’m based in North Cyprus and open to senior full-stack roles—remote, on-site,
-or with relocation.
